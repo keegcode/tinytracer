@@ -1,0 +1,7 @@
+.vs
+out
+build
+vcpkg_installed
+compile_commands.json
+.cache
+CMakeFiles
